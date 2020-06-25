@@ -20,10 +20,7 @@ http://www.tbrpc.org/wp-content/uploads/2019/05/CSAP_SLR_Recommendation_2019.pdf
 We obtained our fitted curve with help of the table in page 6 of the above pdf.  After converting the feet values to millimeter, we extracted the annual relative sea level.
 This is implemented in  NOAA_fittings.ipynb
 
-	b)Shortsighted policy:
-
-We considered a shortsighted government policy that takes investment actions after observing a high cost from the nature based on its predetermined threshold. Under the three sea level projections, we found the optimum thresholds that minimize the average total cost of shortsighted policy in 100 years as 34, 28, and 21 for the intermediate low, intermediate, and high projections.  
-This is implemented in  optimal_threshold_based_agent.ipynb
+	
 
 	c)MDP Based Agent:
 
